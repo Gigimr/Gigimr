@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ginelie</h1>
 <h3 align="center">A passionate fullStack developer from Costa Rica</h3>
 
-- 🔭 I’m currently working on **Fito App**
+- 🔭 I’m currently working on **Experian**
 
 - 🌱 I’m currently learning **AWS**
 
