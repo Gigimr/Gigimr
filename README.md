@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ginelie-portfolio.netlify.app/](https://ginelie-portfolio.netlify.app/)
 
-- 💬 Ask me about **JavaScript, JavaScript,React, React Native, Next.js, and Node.js**
+- 💬 Ask me about **JavaScript,React, React Native, Next.js, and Node.js**
 
 - 📫 How to reach me **ginelieemora@gmail.com**
 
